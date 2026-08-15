@@ -1,0 +1,6 @@
+{
+  "name": "ÉLORA SCENTS",
+  "description": "A luxury e-commerce experience for artisanal perfumes, nourishing body lotions, fragrant oils, and skincare essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
